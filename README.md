@@ -70,5 +70,5 @@ Here is measured size of circuits.
 | 3 | 7  | 14721       | 13.85             |
 | 4 | 15 | 14835857    | 23.82             |
 
-Best fit curve of code length versus n: y = 19.2 + 34.6 * 2.73^x
+Best fit curve of code length versus n: y = 19.2 + 34.6 * 2.73^x.  
 Wow that's very bad.
